@@ -1,2 +1,4 @@
-# Autentica-o-de-usu-rio-
-autenticação de usuário em página de loja virtual 
+# Autenticação de usuário 🔎
+### Autenticação de usuário em acesso login/senha em plataforma virtual 
+Desafio da plataforma de estudo Dio.me 💻
+
